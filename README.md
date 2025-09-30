@@ -7,13 +7,17 @@
 </h1>
 
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabindevx&label=Profile%20views&color=0e75b6&style=flat" alt="nabindevx" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nabindevx&label=Profile%20views&color=0e75b6&style=flat" alt="nabindevx" /> </p>
+
+<h3 align="left"> 🏆 GitHub Trophies:</h3>
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabindevx" alt="nabindevx" /></a> </p>
 
-<br>
+<h3 align="left"> 🌐 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/nabin-bera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpan khan" height="30" width="40" /></a>
+</p>
 
 <h3 align="left"> 🔨 Languages and Tools:</h3>
-
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img align="left" alt="C" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"> </a>
   <a href="https://isocpp.org/" target="_blank"> <img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </a>
@@ -41,17 +45,9 @@
   <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 </p>
-
 <br>
 
-<h3 align="left"> 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/nabin-bera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpan khan" height="30" width="40" /></a>
-</p>
-
 <hr>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -73,5 +69,4 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabindevx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
 <hr>
