@@ -22,6 +22,8 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img align="left" alt="C" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"> </a>
   <a href="https://isocpp.org/" target="_blank"> <img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="C#" height="42px" src="images/cSharp.svg"> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="VsCode" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"> </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img align="left" alt="VisualStudio" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Arduino" height="42px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> </a>
   <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/> </a>
   <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </a>
@@ -52,7 +54,7 @@
   <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="firebase" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/> </a>
 </p>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
