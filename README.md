@@ -52,7 +52,7 @@
   <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="firebase" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/> </a>
 </p>
-<br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
