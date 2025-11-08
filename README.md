@@ -30,7 +30,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind CSS" height="42px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"> </a>
   <a href="https://nodejs.org/" target="_blank"> <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </a>
   <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </a>
   <a href="https://www.npmjs.com/" target="_blank"> <img align="left" alt="Npm" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg"> </a>
@@ -39,11 +39,13 @@
   <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"> </a>
   <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </a>
   <a href="https://vite.dev/" target="_blank"> <img align="left" alt="Vite" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg"> </a>
+  <a href="https://threejs.org/" target="_blank"> <img align="left" alt="Three.js" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg"> </a>
   <!-- <a href="https://reactnative.dev/" target="_blank"> <img align="left" alt="React Native" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/reactnative/reactnative.svg"> </a> -->
   <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="figma" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> </a>
-  <a href="https://discord.com/" target="_blank"> <img align="left" alt="Discord.js" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"> </a>
+  <a href="https://discord.bots.gg/" target="_blank"> <img align="left" alt="DiscordBot" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg"> </a>
+  <a href="https://discord.com/" target="_blank"> <img align="left" alt="Discord.js" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordJS-Dark.svg"> </a>
   <a href="https://www.postman.com/" target="_blank"> <img align="left" alt="Postman" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"> </a>
   <a href="https://nginx.org/" target="_blank"> <img align="left" alt="Nginx" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/nginx/nginx.svg"> </a>
   <a href="https://cloud.google.com/" target="_blank"> <img align="left" alt="Google Cloud" height="42px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"> </a>
