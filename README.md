@@ -23,29 +23,36 @@
   <a href="https://isocpp.org/" target="_blank"> <img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="C#" height="42px" src="images/cSharp.svg"> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Arduino" height="42px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/> </a>
   <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind CSS" height="42px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"> </a>
+  <a href="https://nodejs.org/" target="_blank"> <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </a>
   <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"> </a>
+  <a href="https://www.npmjs.com/" target="_blank"> <img align="left" alt="Npm" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg"> </a>
+  <a href="https://pnpm.io/" target="_blank"> <img align="left" alt="Pnpm" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pnpm-Dark.svg"> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="Typescirpt" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"> </a>
   <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"> </a>
-  <a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </a>
   <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </a>
+  <a href="https://vite.dev/" target="_blank"> <img align="left" alt="Vite" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg"> </a>
   <!-- <a href="https://reactnative.dev/" target="_blank"> <img align="left" alt="React Native" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/reactnative/reactnative.svg"> </a> -->
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="figma" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> </a>
+  <a href="https://discord.com/" target="_blank"> <img align="left" alt="Discord.js" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"> </a>
+  <a href="https://www.postman.com/" target="_blank"> <img align="left" alt="Postman" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"> </a>
+  <a href="https://nginx.org/" target="_blank"> <img align="left" alt="Nginx" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/nginx/nginx.svg"> </a>
   <a href="https://cloud.google.com/" target="_blank"> <img align="left" alt="Google Cloud" height="42px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img align="left" alt="AWS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"> </a>
+  <a href="https://kubernetes.io/" target="_blank"> <img align="left" alt="Kubernetes" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg"> </a>
   <a href="https://www.java.com" target="_blank"> <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"> </a>
   <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> </a>
   <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="firebase" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/> </a>
 </p>
-<br>
+<br><br>
 
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -73,5 +80,5 @@
 
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/NabinDevX?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
