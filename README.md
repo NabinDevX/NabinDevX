@@ -7,82 +7,93 @@
 </h1>
 
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nabindevx&label=Profile%20views&color=0e75b6&style=flat" alt="nabindevx" /> </p>
 
-<h3 align="left"> 🏆 GitHub Trophies:</h3>
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabindevx" alt="nabindevx" /></a> </p>
-
-<h3 align="left"> 🌐 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nabin-bera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpan khan" height="30" width="40" /></a>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nabindevx&label=Profile%20views&color=0e75b6&style=flat" alt="nabindevx" />
 </p>
 
-<h3 align="left"> 🔨 Languages and Tools:</h3>
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img align="left" alt="C" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"> </a>
-  <a href="https://isocpp.org/" target="_blank"> <img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="C#" height="42px" src="images/cSharp.svg"> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="VsCode" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"> </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img align="left" alt="VisualStudio" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"> </a>
-  <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Arduino" height="42px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind CSS" height="42px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"> </a>
-  <a href="https://nodejs.org/" target="_blank"> <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </a>
-  <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </a>
-  <a href="https://www.npmjs.com/" target="_blank"> <img align="left" alt="Npm" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg"> </a>
-  <a href="https://pnpm.io/" target="_blank"> <img align="left" alt="Pnpm" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pnpm-Dark.svg"> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="Typescirpt" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </a>
-  <a href="https://vite.dev/" target="_blank"> <img align="left" alt="Vite" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg"> </a>
-  <a href="https://threejs.org/" target="_blank"> <img align="left" alt="Three.js" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg"> </a>
-  <!-- <a href="https://reactnative.dev/" target="_blank"> <img align="left" alt="React Native" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/reactnative/reactnative.svg"> </a> -->
-  <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="figma" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> </a>
-  <a href="https://discord.bots.gg/" target="_blank"> <img align="left" alt="DiscordBot" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg"> </a>
-  <a href="https://discord.com/" target="_blank"> <img align="left" alt="Discord.js" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordJS-Dark.svg"> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img align="left" alt="Postman" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"> </a>
-  <a href="https://nginx.org/" target="_blank"> <img align="left" alt="Nginx" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/nginx/nginx.svg"> </a>
-  <a href="https://cloud.google.com/" target="_blank"> <img align="left" alt="Google Cloud" height="42px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img align="left" alt="AWS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"> </a>
-  <a href="https://kubernetes.io/" target="_blank"> <img align="left" alt="Kubernetes" height="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg"> </a>
-  <a href="https://www.java.com" target="_blank"> <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> </a>
-  <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="firebase" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/> </a>
+<!-- GitHub Trophies -->
+<h3> 🏆 GitHub Trophies</h3>
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nabindevx" alt="Trophies" />
+  </a>
 </p>
-<br><br><br><br><br><br><br>
+
+<!-- Social -->
+<h3> 🌐 How to reach me</h3>
+<p>
+  <a href="https://linkedin.com/in/nabin-bera/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
+</p>
+
+<!-- Languages & Tools -->
+<h3> 🔨 Languages and Tools</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img height="42" src="images/cSharp.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg">
+  <img height="42" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg">
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg">
+  <img height="42" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pnpm-Dark.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg">
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordJS-Dark.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/nginx/nginx.svg">
+  <img height="42" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg">
+  <img height="42" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg">
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg">
+  <img height="42" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg">
+
+</div>
 
 <hr>
+
+<!-- Stats Section -->
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=nabindevx&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=nabindevx&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabindevx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabindevx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<div align="center">
+
+  <!-- Streak + GitHub Stats -->
+  <img width="48%" src="https://streak-stats.demolab.com/?user=nabindevx&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nabindevx&show_icons=true&theme=react&hide_border=true" />
+
+  <!-- Top Languages -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabindevx&layout=compact&theme=react&hide_border=true" />
+
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nabindevx&theme=react-dark&hide_border=true" />
+
+</div>
+
 <hr>
-
 
 <h4 align="center">
-  <a href="https://github.com/NabinDevX?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/NabinDevX?tab=repositories" title="Show Repositories">
+    🔎 Show More 🔍
+  </a>
 </h4>
