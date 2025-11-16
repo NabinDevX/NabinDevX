@@ -114,6 +114,13 @@
 
 <hr>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabindevx/nabindevx/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nabindevx/nabindevx/output/github-snake.svg" width="1000" height="200" />
+</picture>
+
+<hr>
+
 <h4 align="center">
   <a href="https://github.com/NabinDevX?tab=repositories" title="Show Repositories">
     🔎 Show More 🔍
