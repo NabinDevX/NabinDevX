@@ -22,7 +22,7 @@
 - ☁️ I've keen interest in machine learning. So,I'm learning **IOT and Networking**
 - 📫 Feel free to reach me out **nabindevx@gmail.com**
 
-<h3> 🌐 How to reach me</h3>
+<h3> <img src="https://usagif.com/wp-content/uploads/gifs/handshake-63.gif" width="35"> How to reach me</h3>
 <p>
   <a href="https://linkedin.com/in/nabin-bera/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
