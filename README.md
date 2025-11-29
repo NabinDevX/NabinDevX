@@ -98,7 +98,9 @@
 
 <h4 align="center">🏆 Trophies 🏆</h4>
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=nabindevx&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8&margin-w=15&margin-h=15" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nabindevx&theme=algolia&margin-w=10&no-frame=true&no-bg=true"/>
+  </a>
 </p>
 
 <div align="center">
