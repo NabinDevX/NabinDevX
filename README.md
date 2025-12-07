@@ -1,6 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nabindevx.nabindevx">
-
-<p align="left">
+<img width="100%" src="https://github-repo-stars.vercel.app/avatar/dark/nabindevx" />
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabindevx&label=Profile%20views&color=0e75b6&style=flat" alt="nabindevx" />
 </p>
 
