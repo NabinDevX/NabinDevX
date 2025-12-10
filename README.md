@@ -122,6 +122,12 @@
 
 <hr>
 
+<p align="center">
+  <img width="50%" src="https://github-repo-stars.vercel.app/stars/nabindevx"/>
+</p>
+
+<hr>
+
 <h4 align="center">
   <a href="https://github.com/NabinDevX?tab=repositories" title="Show Repositories">
     🔎 Show More 🔍
