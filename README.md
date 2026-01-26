@@ -1,4 +1,4 @@
-<img width="100%" src="https://github-repo-stars.vercel.app/avatar/dark/nabindevx" />
+<!-- <img width="100%" src="https://stared-repos.onrender.com/avatar/dark/nabindevx" /> -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabindevx&label=Profile%20views&color=0e75b6&style=flat" alt="nabindevx" />
 </p>
@@ -72,7 +72,7 @@
 
 <hr>
 
-<h3><img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="50"> Coding Stats :</h3>
+<!-- <h3><img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="50"> Coding Stats :</h3>
 
 <table align="center">
   <tr>
@@ -91,24 +91,23 @@
   </tr>
 </table>
 
-<hr>
+<hr> -->
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats :</h3>
 
-<h4 align="center">🏆 Trophies 🏆</h4>
+<!-- <h4 align="center">🏆 Trophies 🏆</h4>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nabindevx&theme=algolia&margin-w=10&no-frame=true&no-bg=true"/>
   </a>
-</p>
+</p> -->
 
 <div align="center">
-
+<!--
   <img width="50%" src="https://streak-stats.demolab.com/?user=nabindevx&theme=react&border=61dafb&hide_border=true" alt="nabindevx" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nabindevx&show_icons=true&theme=react&hide_border=true" />
-
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabindevx&layout=compact&theme=react&hide_border=true" />
-
+-->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nabindevx&theme=react-dark&hide_border=true" />
 
 </div>
